@@ -8,10 +8,6 @@ image: ![snowflake]([https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures#/
 
 ### sub-sub-header
 
-for italic, use *one star*
+Link: [youtube](https://www.youtube.com/)
 
-Here's some code: `git status`
 
-Another one: `git commit -m 'my message'`
-
-Link to google: ]
