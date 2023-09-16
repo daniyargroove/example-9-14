@@ -7,14 +7,16 @@ image: ![snowflake](https://th.bing.com/th/id/R.cb8b5a191f1a7edc7e68d56ccf97024a
 ## subheader
 
 ### sub-sub-header 
-
+---
 My name is Daniyar Mussin. I have a Bachelor's degree in civil and industrial construction and Master's degree in standardization, certification and metrology. I have a 2 years of experience of working as a Architectural and Civil drafter, but this year I decided to change my occupation and become a fintech software engineer.
 
 My career goal is to start a path of a software engineer in one the financial institutes such as J.P.Morgan Chase, Bank of America, Wells Fargo, Blackrock, Vanguard, Goldman Sachs, etc.
 
 I chose a fintech as a career path because I always had an interest to find out how do all financial processes happen, what's the inside of a great companies. I want to be a part of a team of specialists who develop fintech software for people around the world.
-
+---
 Link: [youtube](https://www.youtube.com/)
+
+> block quote of text
 
 image : ![spaceship](spaceship.png)
 
