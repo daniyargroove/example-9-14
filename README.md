@@ -8,7 +8,7 @@ image: ![snowflake](https://th.bing.com/th/id/R.cb8b5a191f1a7edc7e68d56ccf97024a
 
 ### sub-sub-header 
 
-My name is Daniyar. I have a bachelor's degree in civil and industrial construction and master's degree in standardization, certification and metrology. I have a 2 years of experience of working as a Architectural and Civil drafter, but this year I decided to change my occupation and become a fintech software engineer.
+My name is Daniyar Mussin. I have a bachelor's degree in civil and industrial construction and master's degree in standardization, certification and metrology. I have a 2 years of experience of working as a Architectural and Civil drafter, but this year I decided to change my occupation and become a fintech software engineer.
 
 My career goal is to start a path of a software engineer in one the financial institutes such as J.P.Morgan Chase, Bank of America, Wells Fargo, Blackrock, Vanguard, Goldman Sachs.
 
