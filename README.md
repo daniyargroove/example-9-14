@@ -16,7 +16,7 @@ I chose a fintech as a career path because I always had an interest to find out 
 
 Link: [youtube](https://www.youtube.com/)
 
-image : [spaceship](spaceship.png)
+image : ![spaceship](spaceship.png)
 
 There will be another links
 
